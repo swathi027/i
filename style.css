@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.city{
+    background-color: rgb(88, 112, 64);
+    color: white;
+    margin: auto;
+}
+body{
+    background-color: cadetblue;
+}
+.grid-container{
+    background: 15cm;
+    background-color: aliceblue;
+    border: solid 10px block;
+    margin-block: 1cm;
+    display: block;
+    text-decoration:dashed;
+    text-align: left;
+}
